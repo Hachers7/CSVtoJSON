@@ -1,0 +1,19 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Roksolana Rozovyk",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hachers7/GitHubAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hachers7/GitHubAPI/issues"
+  },
+  "homepage": "https://github.com/Hachers7/GitHubAPI#readme",
+  "description": ""
+}
